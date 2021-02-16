@@ -1,0 +1,20 @@
+[
+    {
+        "name": "zpg/swostar",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "dist": {
+            "type": "path",
+            "url": "../swostar",
+            "reference": "03c4a41d87908d719e59341c8b67a0ccdaaf9f3f"
+        },
+        "type": "library",
+        "installation-source": "dist",
+        "authors": [
+            {
+                "name": "zpg",
+                "email": "1968505239@qq.com"
+            }
+        ]
+    }
+]

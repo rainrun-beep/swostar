@@ -1,0 +1,12 @@
+{
+    "name": "zpg/swostar",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SwoStar\\":"./src/"
+        },
+        "files" : [
+            "src/Supper/Helper.php"
+        ]
+    }
+}
